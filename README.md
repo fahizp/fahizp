@@ -4,10 +4,10 @@
 I'm a self-taught full stack developer with expertise in the MERN stack. I have experience working on various projects, and I'm proficient in JavaScript, Node.js, React, MongoDB, and Git. I'm passionate about staying up-to-date with the latest trends in web development, and I enjoy learning new tools and technologies to enhance my skills. If you're looking for a dedicated and talented developer, feel free to browse my GitHub profile and reach out to me!
 
 - 💬 Ask me about **MERN**
-- 📫 How to reach me **fahizp3@gmail.com**
+- 📫 How to reach me **contact@fahiz.in**
 
 ### Connect with me
-- [LinkedIn](https://www.linkedin.com/in/muhammed-fahiz-833338224/)
+- [LinkedIn](https://www.linkedin.com/in/fahizp/)
 - [Instagram](https://www.instagram.com/fahxzz._)
 - [Youtube](https://www.youtube.com/@muhammedfahiz1014)
 
