@@ -13,7 +13,7 @@ I'm a self-taught full stack developer with expertise in the MERN stack. I have 
 
 ### Languages and Tools 
 
-`Arduino` `AWS` `Bootstrap` `w3schools` `Expressjs` `Figma` `Firebase`  `Git` `Heroku` `Linux` `MongoDB` `MySql` `Nginx` `NodeJS` `PostMan` `ReactJS` `Sass` `TypeScript` `JavaScript` `HTML` `CSS` `Express` `AdobeXD` `Ubuntu` `VS-Code`
+`Arduino` `AWS` `Bootstrap` `w3schools` `Expressjs` `Figma` `Firebase`  `Git` `Heroku` `Linux` `MongoDB` `MySql` `Nginx` `NodeJS` `PostMan` `ReactJS` `Sass` `TypeScript` `JavaScript` `HTML` `CSS` `Express` `AdobeXD` `Ubuntu` `VS-Code` `Next js` `GraphQL`
 
 ### Some of my works
 
