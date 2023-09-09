@@ -18,5 +18,8 @@ I'm a self-taught full stack developer with expertise in the MERN stack. I have 
 ### Some of my works
 
 [`Evara-ECommerce-Nodejs`](https://evara.tk)
+[`ArtHive`](https://arthive.fahiz.in)
+[`Ai-Prompt-O-Matic`](https://ai-prompt-o-matic.fahiz.in)
+[`PicSureAI`](https://picsureai.fahiz.in)
 [`Sumz-RapidApi-Reactjs`](https://incredible-muffin-58dfca.netlify.app/)
 
